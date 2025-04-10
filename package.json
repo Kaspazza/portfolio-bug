@@ -1,0 +1,17 @@
+{
+  "name": "portfolio-bug",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "@emotion/react": "11.13.3",
+    "@emotion/styled": "^11.14.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+            "@mui/material": "^6.1.2",
+
+    "shadow-cljs": "2.28.23"
+  },
+  "dependencies": {
+    "snabbdom": "3.5.1"
+  }
+}
